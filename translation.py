@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am mdisk.me, Bulk Link Converter. I Can Convert Links Directly From Your ShortnerFly Account,
+I Am mdisk.me, Bulk Link Converter. I Can Convert Links Directly From Your mdisk Account,
     
 1. Go To 👉  https://t.me/@Video_tool_money_tree_bot
 2. Than Copy API Key
@@ -18,7 +18,7 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of mdisk than **contact** at 👉 @Cyniteofficial (all **shortners** support available.)
+If You Want Any **Other Shortner** Link Converter Bot Instead Of mdisk than **contact** at 👉 @luckysingh2006 (all **shortners** support available.)
 '''
 
 HELP_MESSAGE = '''**Hello, {}
@@ -37,10 +37,10 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of ""mdisk** than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)**
+If You Want Any **Other Shortner** Link Converter Bot Instead Of ""mdisk** than **contact** at 👉 @luckysingh2006 (all **shortners support** available.)**
 '''
 
-ABOUT_TEXT = '''**Hey! My name is @ShortnerFlyBot. I am mdisk Link Converter Bot.**
+ABOUT_TEXT = '''**Hey! My name is @ShortnerBot. I am mdisk Link Converter Bot.**
 
 **⚡Features⚡**
 
